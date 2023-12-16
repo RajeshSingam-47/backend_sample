@@ -1,0 +1,12 @@
+POST http://localhost:4000/add
+Content-Type: application/json
+
+{
+    "name":"singam",
+    "email":"singam@78",
+    "phone":62812586458
+
+}
+
+###
+GET http://localhost:4000/

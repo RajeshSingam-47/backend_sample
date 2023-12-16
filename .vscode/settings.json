@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "singam",
+            "database": "${workspaceFolder:Backend_sample_ganesh_bro}/singam.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
